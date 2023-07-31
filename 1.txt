@@ -1,0 +1,4 @@
+rec 直链 https://59-47-225-67.d.cjjd15.com:30443/download-cdn.123pan.cn/123-99/5cc26e9a/1813909630-0/5cc26e9aeeb13dba4a8db6067f48f063?v=5&t=1690773451&s=1690773451e33f0390b13387042356462d49b468f0&r=0WONS9&filename=recovery.img&x-mf-biz-cid=8134cb3a-c1c8-4b93-87b7-a500d44e293c-47df1e&auto_redirect=0&xmfcid=0697a86e-c8fc-49e8-8168-894dadc5665e-0-abf611255
+
+
+boot 直链 https://59-47-225-66.d.cjjd15.com:30443/download-cdn.123pan.cn/123-295/f6780cf8/1812043255-0/f6780cf8fc1727885f15080e8509b927/c-m2?v=5&t=1690773520&s=1690773520dace8033c9c8fe5952b170fcd08be452&r=SMC3W4&filename=boot.img&x-mf-biz-cid=870a1fad-adef-4da1-bcb6-fb52b55ffad9-47df1e&auto_redirect=0&xmfcid=a88bbc43-ef04-4558-af33-2961375a68e4-0-abf611255
