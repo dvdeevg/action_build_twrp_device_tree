@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: 'https://github.com/momo54181/action_build_twrp_device_tree/blob/main/recovery.img'
+        default: 'https://59-47-225-47.d.cjjd15.com:30443/download-cdn.123pan.cn/123-99/5cc26e9a/1813909630-0/5cc26e9aeeb13dba4a8db6067f48f063?v=5&t=1690873419&s=16908734198b4b1b79fc80c47d2f523a83f63d3467&r=ZTS2HD&filename=recovery.img&x-mf-biz-cid=d421a90c-feb1-45f6-a7e8-8b9f7cfbb3b7-a0d664&auto_redirect=0&xmfcid=219a9e62-573e-40a2-a0cd-b2255faac531-1-abf611255'
 
 jobs:
   build:
